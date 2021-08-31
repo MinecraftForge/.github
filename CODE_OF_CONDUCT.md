@@ -10,7 +10,7 @@ This document is subject to change, please check back every now and then to stay
 
 ## Summary
 
-Forge is an open community that welcomes all people, regardless of ethnicity, gender, sexual orientation, **or any other classification**. To avoid common traps, we disallow discussion of topics such as politics and religion. We are a modding community and there are other places for those types of discussions.
+Forge is an open community that welcomes all people, regardless of ethnicity, gender, sexual orientation, **or any other classification**. To avoid common pitfalls, we disallow discussion of topics such as politics and religion. We are a modding community and there are other places for those types of discussions.
 
 Everything in this document can be summed up with, for lack of a better term, “don’t be a dick”. What that means to us will be described below.
 

@@ -5,6 +5,7 @@
 * Version 1.0, 2021/07/18, Initial draft
 * Version 1.01, 2021/07/22, Updated to reflect received feedback
 * Version 1.02, 2021/08/30, Improved wording in the coremodding explanations
+* Version 1.03, 2021/11/30, Added mention of illegal content being a severe infraction
 
 This document is subject to change, please check back every now and then to stay up to date.
 
@@ -49,7 +50,7 @@ In the spirit of maintaining a stable and friendly environment, the scope of dis
 * **Copyright Infringement, Cheating, ToS Infringement**: It is not allowed to suggest, teach, or otherwise support topics that infringe the intellectual rights of others. This includes running Minecraft without a license, running cheat clients that bypass server limitations, selling content prohibited by the Minecraft EULA, and any other similar infringement.
     * This includes the Discord, Twitter and GitHub Terms of Use, as those services are hosting the Forge communities.
     * We assume that anyone talking about a “client” is referring to cheat clients. Please use the term “mod” or “modpack” to refer to those that don’t include cheats. And yes, “pvp utility mods” are cheats.
-* **Coremodding, Jarmodding, or otherwise bypassing the Forge API**: Discussion of direct bytecode manipulation in mods (coremods, mixins) is not allowed, with the exception of a dedicated channel on the Discord server. Jarmodding, a practice where the modified changes are applied straight to the game code without a mod loader, is forbidden in all cases.
+* **Coremodding, Jarmodding, or otherwise bypassing the Forge API**: Discussion of direct bytecode manipulation in mods (coremods, mixins) is not allowed, with the exception of the dedicated channel on the Discord server as described in the discord server rules. Jarmodding, a practice where the modified changes are applied straight to the game code without a mod loader, is forbidden in all cases.
     * This prohibition exists because forge’s primary goal is to eliminate the need for the average mod to resort to these tools, and by having unnecessary modifications of the vanilla code in mods, those mods are potentially introducing incompatibilities with other mods that expect the original behaviour, and those that choose to change the same code in incompatible ways.
     * The non-api channel is for cases where a feature could not realistically be included in the Forge codebase due to performance, intrusivity, or when it’s unjustifiable due to its niche use. Discussion about the development of coremods that could have been Forge features -- that is, when the coremods do not fit this exception -- is not allowed.
     * Feature requests and Pull Requests should avoid using language that suggests a feature should be merged in order to avoid the publication or continued existence of a coremod. This includes “Proof of Concept” coremods ready to be released if the PR isn’t merged, and phrasing such as “the only alternative is a coremod”, both of which will be assumed to be threats to release such coremods if the feature isn’t merged.
@@ -66,7 +67,7 @@ Infraction severity will be evaluated based on a number of factors:
 
 1. All infractions are **Light** by default, unless they match one of the following conditions.
 2. If the behaviour is **actively damaging** to specific people (personal attacks, bullying, harassing), it will be considered **Moderate**.
-3. If the behaviour is **spammy** (posting on multiple channels, pasting the same message repeatedly, or there’s suspicion of it being automated), such that it is considered an active attack and not just a one-time infraction, it will be considered **Severe**.
+3. If the behaviour is **spammy** (posting on multiple channels, pasting the same message repeatedly, or there’s suspicion of it being automated) or **illegal** (such as scams, illegal porn, etc.), such that it is considered an active attack and not just a one-time infraction, it will be considered **Severe**.
 4. If the behaviour is repeated after receiving initial moderation action, showing no intention to correct this behaviour, it will be **upgraded to the next severity level**. This means repeat offenders of a Light infraction will receive Moderate action, and repeat offenders after a Moderate infraction will receive Severe action. It is the moderator’s discretion to decide when reincidence requires a severity upgrade.
 
 Examples of behaviours and actions that warrant different severity levels. This list is not exhaustive and only shows some examples of how moderation severity needs to be evaluated:

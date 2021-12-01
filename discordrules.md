@@ -10,7 +10,7 @@
     7. Don't argue with mods. They have final say in everything.
     8. Don't be a dick. Seriously. It's not that difficult.
     9. Don't talk about coremodding or mixins outside the designated channel: <#733055378371117127>
-     a. We reserve the right not to support your endeavours into pointless coremodding or mixins. If there's a way to do it without a coremod or mixin, we will happily tell you how.
+      a. We reserve the right not to support your endeavours into pointless coremodding or mixins. If there's a way to do it without a coremod or mixin, we will happily tell you how.
     10. Don't talk about other modding systems here. We know about fabric, sponge and a dozen others. You don't need to tell us about them. AGAIN. This is the Forge discord. Talk about Forge.
     11. Don't ask about old versions. There are support communities for legacy versions of modded minecraft, where you'll find lots of new friends. No, we're not a directory, and we don't have invites to hand out.
     12. We will try and support your problems in <#437001959950778368>, but problems get fixed all the time. We can only reasonably support the latest recommended build and very recent beta builds. If you can't reproduce your problem, we reserve the right not to help you.
@@ -27,7 +27,7 @@
     _Note that significant enough violations will lead to one or more of these steps being skipped._
 =>
 **Channels:**
-    **General:**
+**General:**
     <#313125603924639766> - Chat about the project
     <#437001959950778368> - User support and log interpretation services
     <#725850371834118214> - MC 1.16 modding help
@@ -36,12 +36,12 @@
     <#540691915373412393> - Random off-topic discussion
     <#679070190721433659> - Show off your Forge mods here
     <#733055378371117127> - Discuss modding outside the normal forge APIs: coremodding, mixins, etc here, and only here.
-    **Projects (*NOT SUPPORT CHANNELS*):**
+**Projects (*NOT SUPPORT CHANNELS*):**
     <#852298000042164244> - "On the record" discussion of issues and prs on all of MinecraftForge's repositories
     <#570666026077913098> - Discussion of MCPConfig, one of the low end toolchains that makes decompiling Minecraft possible
     <#801175194298744902> - Discussion of ForgeGradle development and Gradle in general
     <#837066453025816586> - Discussion of RetroGradle, the community project to make old versions buildable on the modern ForgeGradle toolset
-    **Bots:**
+**Bots:**
     <#455029803293081635> - Jenkins feed (Announcement Channel)
     <#911717039079579708> - Teamcity feed (Coming soon!)
     <#437072117096382484> - GitHub feed

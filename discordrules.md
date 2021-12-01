@@ -26,7 +26,7 @@
 
     _Note that significant enough violations will lead to one or more of these steps being skipped._
 =>
-**Channels:**
+**Channel Guide**
 **General:**
     <#313125603924639766> - Chat about the project
     <#437001959950778368> - User support and log interpretation services

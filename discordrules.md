@@ -18,14 +18,13 @@
 **Community Standards**
     The entire community - users, visitors, contributors and maintainers - will be held to the standards of the Code of Conduct:
     <https://raw.githubusercontent.com/MinecraftForge/.github/master/CODE_OF_CONDUCT.md>
-    
 **Moderation:**
     We operate a 3 strikes policy. Rule violations (listed above) can trigger these actions.
     1. Strike one will result in an in channel warning stating which rule you violated
     2. Strike two will result in a ten minute timeout
     3. Strike three will result in a ban or read-only purgatory
 
-    Note that significant enough violations will lead to one or more of these steps being skipped.
+    _Note that significant enough violations will lead to one or more of these steps being skipped._
 =>
 **Channels:**
     **General:**
@@ -34,16 +33,17 @@
     <#725850371834118214> - MC 1.16 modding help
     <#867851603468615740> - MC 1.17 modding help
     <#915304642668290119> - MC 1.18 modding help
-    <#852298000042164244> - "On the record" discussion of issues and prs on all of MinecraftForge's repositories
     <#540691915373412393> - Random off-topic discussion
     <#679070190721433659> - Show off your Forge mods here
     <#733055378371117127> - Discuss modding outside the normal forge APIs: coremodding, mixins, etc here, and only here.
     **Projects (*NOT SUPPORT CHANNELS*):**
+    <#852298000042164244> - "On the record" discussion of issues and prs on all of MinecraftForge's repositories
     <#570666026077913098> - Discussion of MCPConfig, one of the low end toolchains that makes decompiling Minecraft possible
     <#801175194298744902> - Discussion of ForgeGradle development and Gradle in general
     <#837066453025816586> - Discussion of RetroGradle, the community project to make old versions buildable on the modern ForgeGradle toolset
     **Bots:**
     <#455029803293081635> - Jenkins feed (Announcement Channel)
+    <#911717039079579708> - Teamcity feed (Coming soon!)
     <#437072117096382484> - GitHub feed
     <#914676443009654804> - Minecraft Update feed
     <#796838585797050428> - Go here to play with the bots
@@ -59,7 +59,8 @@
     <@&437000459606032384> - Someone who has made significant contributions to Forge or one of its many supporting projects.
     <@&837066097403625543> - Members of the RetroGradle project (see the <#837066453025816586> channel above)
     <@&451471841488404491> - Awarded automatically to anyone who donates on Lex's patreon: <https://www.patreon.com/LexManos>
-
+=>
 **Invite:** https://discord.gg/forge
+=>
 **Backup Invite:** https://discord.gg/UvedJ9m
 =>

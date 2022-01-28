@@ -37,6 +37,7 @@
     <#679070190721433659> - Show off your Forge mods here
     <#733055378371117127> - Discuss modding outside the normal forge APIs: coremodding, mixins, etc here, and only here.
 **Projects (*NOT SUPPORT CHANNELS*):**
+    <#922237746460893234> - Discussion of all projects under the MCModLauncher organization, primarily Modlauncher itself.
     <#852298000042164244> - "On the record" discussion of issues and prs on all of MinecraftForge's repositories
     <#570666026077913098> - Discussion of MCPConfig, one of the low end toolchains that makes decompiling Minecraft possible
     <#801175194298744902> - Discussion of ForgeGradle development and Gradle in general
@@ -57,6 +58,7 @@
     <@&584959162283196429> - People that are essential to forge's continued existence, but not core team members.
     <@&437037727075139594> - Beep boop.
     <@&437000459606032384> - Someone who has made significant contributions to Forge or one of its many supporting projects.
+    <@&922238913509224489> - Members of the MCModLauncher organization (see the <#922237746460893234> channel above)
     <@&837066097403625543> - Members of the RetroGradle project (see the <#837066453025816586> channel above)
     <@&451471841488404491> - Awarded automatically to anyone who donates on Lex's patreon: <https://www.patreon.com/LexManos>
 =>

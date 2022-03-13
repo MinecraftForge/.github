@@ -1,6 +1,6 @@
 <<https://assets.tterrag.com/discord/forge-banner.jpeg>>
 =>
-
+_ _
 **Rules:**
     1. Do not ping people unnecessarily.
     2. Do not PM anyone with a rank without asking permission first.
@@ -16,7 +16,7 @@
     11. Don't ask about old versions. There are support communities for legacy versions of modded minecraft, where you'll find lots of new friends. No, we're not a directory, and we don't have invites to hand out.
     12. We will try and support your problems in <#437001959950778368>, but problems get fixed all the time. We can only reasonably support the latest recommended build and very recent beta builds. If you can't reproduce your problem, we reserve the right not to help you.
 =>
-
+_ _
 **Community Standards**
     The entire community - users, visitors, contributors and maintainers - will be held to the standards of the Code of Conduct:
     <https://github.com/MinecraftForge/.github/blob/master/CODE_OF_CONDUCT.md>
@@ -28,7 +28,7 @@
 
     _Note that significant enough violations will lead to one or more of these steps being skipped._
 =>
-
+_ _
 **Channel Guide**
 **General:**
     <#313125603924639766> - Chat about the project
@@ -52,7 +52,7 @@
     <#914676443009654804> - Minecraft Update feed
     <#796838585797050428> - Go here to play with the bots
 =>
-
+_ _
 **Roles:**
     <@&437000310808903700> - Core Forge team members, those with direct access to the project.
     <@&437009881296535553> - Ping this role if there is a major disturbance that needs moderator attention.
@@ -66,9 +66,9 @@
     <@&837066097403625543> - Members of the RetroGradle project (see the <#837066453025816586> channel above)
     <@&451471841488404491> - Awarded automatically to anyone who donates on Lex's patreon: <https://www.patreon.com/LexManos>
 =>
-
+_ _
 **Invite:** https://discord.gg/forge
 =>
-
+_ _
 **Backup Invite:** https://discord.gg/UvedJ9m
 =>

@@ -67,6 +67,15 @@ _ _
     <@&451471841488404491> - Awarded automatically to anyone who donates on Lex's patreon: <https://www.patreon.com/LexManos>
 =>
 _ _
+**Regarding the new Chat Reporting feature in 1.19.1**
+Mojang is adding a new feature in 1.19.1 that lets people report chat messages, and those reports may lead to people getting banned from Multiplayer modes of Minecraft.
+We understand that many people don't agree with the way this feature is being implemented, but we don't know yet what Mojang and Microsoft's moderation policy will look like, and what kinds of bans they will give.
+Until we have more information, we will go along with what we believe is Mojang's intention, and we'll consider that anything that allows you to bypass bans or prevents others from reporting you, is dishonest and so it falls in the same category as cheating or capes.
+That means, even tho mods for this can be made, we will not support, encourage, or allow advertising of those mods in this community.
+We may reevaluate this decision in the future.
+TL;DR: whatever you do outside our community is not our concern, just don't get us involved.
+=>
+_ _
 **Invite:** https://discord.gg/forge
 =>
 _ _

@@ -33,24 +33,30 @@ _ _
 **General:**
     <#313125603924639766> - Chat about the project
     <#437001959950778368> - User support and log interpretation services
-    <#725850371834118214> - MC 1.16 modding help
-    <#867851603468615740> - MC 1.17 modding help
     <#915304642668290119> - MC 1.18 modding help
+    <#983834532904042537> - MC 1.19 modding help
     <#540691915373412393> - Random off-topic discussion
     <#679070190721433659> - Show off your Forge mods here
     <#733055378371117127> - Discuss modding outside the normal forge APIs: coremodding, mixins, etc here, and only here.
 **Projects (*NOT SUPPORT CHANNELS*):**
-    <#922237746460893234> - Discussion of all projects under the MCModLauncher organization, primarily Modlauncher itself.
     <#852298000042164244> - "On the record" discussion of issues and prs on all of MinecraftForge's repositories
+    <#922237746460893234> - Discussion of all projects under the MCModLauncher organization, primarily Modlauncher itself.
     <#570666026077913098> - Discussion of MCPConfig, one of the low end toolchains that makes decompiling Minecraft possible
     <#801175194298744902> - Discussion of ForgeGradle development and Gradle in general
     <#837066453025816586> - Discussion of RetroGradle, the community project to make old versions buildable on the modern ForgeGradle toolset
+    <#978352383434297414> - Discussion of Forge's Crowdin project for crowdsourced translations
 **Bots:**
     <#455029803293081635> - Jenkins feed (Announcement Channel)
     <#911717039079579708> - Teamcity feed (Coming soon!)
-    <#437072117096382484> - GitHub feed
     <#914676443009654804> - Minecraft Update feed
     <#796838585797050428> - Go here to play with the bots
+**GitHub:**
+    <#987750839118626906> - Feed for the main MinecraftForge repository and ForgeGradle
+    <#987751290144702505> - Feed for the private Forge repository (for version updating) and blog
+    <#987751411485933579> - Feed for the various toolchain-related projects and repositories
+    <#926287161253318696> - Feed for projects under the McModLauncher organization
+    <#987751724502634546> - Feed for all other Forge side-projects that don't fit in the above
+    <#437072117096382484> - Archives of the old combined GitHub feed channel
 =>
 _ _
 **Roles:**

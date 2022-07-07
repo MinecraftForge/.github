@@ -48,9 +48,15 @@ _ _
 **Bots:**
     <#455029803293081635> - Jenkins feed (Announcement Channel)
     <#911717039079579708> - Teamcity feed (Coming soon!)
-    <#437072117096382484> - GitHub feed
     <#914676443009654804> - Minecraft Update feed
     <#796838585797050428> - Go here to play with the bots
+**GitHub:**
+    <#987750839118626906> - Feed for the main MinecraftForge repository and ForgeGradle
+    <#987751290144702505> - Feed for the private Forge repository (for version updating) and blog
+    <#987751411485933579> - Feed for the various toolchain-related projects and repositories
+    <#926287161253318696> - Feed for projects under the McModLauncher organization
+    <#987751724502634546> - Feed for all other Forge side-projects that don't fit in the above
+    <#437072117096382484> - Archives of the old combined GitHub feed channel
 =>
 _ _
 **Roles:**

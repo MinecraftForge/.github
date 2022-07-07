@@ -33,8 +33,6 @@ _ _
 **General:**
     <#313125603924639766> - Chat about the project
     <#437001959950778368> - User support and log interpretation services
-    <#725850371834118214> - MC 1.16 modding help
-    <#867851603468615740> - MC 1.17 modding help
     <#915304642668290119> - MC 1.18 modding help
     <#540691915373412393> - Random off-topic discussion
     <#679070190721433659> - Show off your Forge mods here

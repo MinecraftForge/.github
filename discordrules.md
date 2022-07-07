@@ -44,6 +44,7 @@ _ _
     <#570666026077913098> - Discussion of MCPConfig, one of the low end toolchains that makes decompiling Minecraft possible
     <#801175194298744902> - Discussion of ForgeGradle development and Gradle in general
     <#837066453025816586> - Discussion of RetroGradle, the community project to make old versions buildable on the modern ForgeGradle toolset
+    <#978352383434297414> - Discussion of Forge's Crowdin project for crowdsourced translations
 **Bots:**
     <#455029803293081635> - Jenkins feed (Announcement Channel)
     <#911717039079579708> - Teamcity feed (Coming soon!)

@@ -34,6 +34,7 @@ _ _
     <#313125603924639766> - Chat about the project
     <#437001959950778368> - User support and log interpretation services
     <#915304642668290119> - MC 1.18 modding help
+    <#983834532904042537> - MC 1.19 modding help
     <#540691915373412393> - Random off-topic discussion
     <#679070190721433659> - Show off your Forge mods here
     <#733055378371117127> - Discuss modding outside the normal forge APIs: coremodding, mixins, etc here, and only here.

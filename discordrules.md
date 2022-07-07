@@ -49,7 +49,7 @@ _ _
 _ _
 **Bots:**
     <#455029803293081635> - Jenkins feed (Announcement Channel)
-    <#911717039079579708> - Teamcity feed (Coming soon!)
+    <#911717039079579708> - Teamcity feed
     <#914676443009654804> - Minecraft Update feed
     <#796838585797050428> - Go here to play with the bots
 **GitHub:**

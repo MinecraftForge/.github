@@ -72,7 +72,7 @@ _ _
     <@&437000459606032384> - Someone who has made significant contributions to Forge or one of its many supporting projects.
     <@&922238913509224489> - Members of the MCModLauncher organization (see the <#922237746460893234> channel above)
     <@&837066097403625543> - Members of the RetroGradle project (see the <#837066453025816586> channel above)
-    <@&451471841488404491> - Awarded automatically to anyone who donates on Lex's patreon: <https://www.patreon.com/LexManos>
+    <@&451471841488404491> - Awarded automatically to anyone who donates on Forge's patreon: <https://www.patreon.com/MinecraftForge>
 =>
 _ _
 **Regarding the new Chat Reporting feature in 1.19.1**
@@ -84,7 +84,7 @@ We may reevaluate this decision in the future.
 TL;DR: whatever you do outside our community is not our concern, just don't get us involved.
 =>
 _ _
-**Invite:** https://discord.gg/forge
+**Invite:** https://discord.minecraftforge.net
 =>
 _ _
 **Backup Invite:** https://discord.gg/UvedJ9m

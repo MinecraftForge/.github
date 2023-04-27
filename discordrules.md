@@ -16,7 +16,7 @@
 1. We will try and support your problems in <#437001959950778368>, but problems get fixed all the time. We can only reasonably support the latest recommended build and very recent beta builds. If you can't reproduce your problem, we reserve the right not to help you.
 =>
 # Community Standards
-The entire community - users, visitors, contributors and maintainers - will be held to the standards of the [Code of Conduct](https://github.com/MinecraftForge/.github/blob/master/CODE_OF_CONDUCT.md)
+The entire community - users, visitors, contributors and maintainers - will be held to the standards of the [Code of Conduct](<https://github.com/MinecraftForge/.github/blob/master/CODE_OF_CONDUCT.md>)
 ## Moderation
 We operate a 3 strikes policy. Rule violations (listed above) can trigger these actions.
 1. Strike one will result in an in channel warning stating which rule you violated
@@ -65,7 +65,7 @@ _Note that significant enough violations will lead to one or more of these steps
 - <@&437000459606032384> - Someone who has made significant contributions to Forge or one of its many supporting projects.
 - <@&922238913509224489> - Members of the MCModLauncher organization (see the <#922237746460893234> channel above)
 - <@&837066097403625543> - Members of the RetroGradle project (see the <#837066453025816586> channel above)
-- <@&451471841488404491> - Awarded automatically to anyone who donates on [Forge's patreon](https://www.patreon.com/MinecraftForge)
+- <@&451471841488404491> - Awarded automatically to anyone who donates on [Forge's patreon](<https://www.patreon.com/MinecraftForge>)
 =>
 ### Regarding the new Chat Reporting feature in 1.19.1
 Mojang is adding a new feature in 1.19.1 that lets people report chat messages, and those reports may lead to people getting banned from Multiplayer modes of Minecraft.

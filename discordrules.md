@@ -56,7 +56,7 @@ _Note that significant enough violations will lead to one or more of these steps
 =>
 ## Roles
 - <@&437000310808903700> - Core Forge team members, those with direct access to the project.
-- <@&437009881296535553> - Ping this role if there is a major disturbance that needs moderator attention.
+- <@&1103212714219802654> - Ping this role if there is a major disturbance that needs moderator attention.
 - <@&733925803632361513> - Long term support team. They manage backports to the stable LTS version.
 - <@&584960735675940874> - The team managing issues and PRs.
 - <@&733876256923320371> - Helpful, knowledgable members of the community

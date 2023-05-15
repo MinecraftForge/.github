@@ -2,26 +2,26 @@
 =>
 # Rules
 1. Do not ping people unnecessarily.
-1. Do not PM anyone with a rank without asking permission first.
-1. Do not ask for release dates. This includes "rough ETAs" etc. We know when updates are released. Follow the Github for progress.
-1. No spamming. This includes emoji and many single word messages.
-1. Do not ask/beg for roles, they are assigned manually by the moderators when they see fit.
-1. Please keep on topic. There is lenience but don't push it.
-1. Don't argue with mods. They have final say in everything.
-1. Don't be a dick. Seriously. It's not that difficult.
-1. Don't talk about coremodding or mixins outside the designated channel: <#733055378371117127>
+2. Do not PM anyone with a rank without asking permission first.
+3. Do not ask for release dates. This includes "rough ETAs" etc. We know when updates are released. Follow the Github for progress.
+4. No spamming. This includes emoji and many single word messages.
+5. Do not ask/beg for roles, they are assigned manually by the moderators when they see fit.
+6. Please keep on topic. There is lenience but don't push it.
+7. Don't argue with mods. They have final say in everything.
+8. Don't be a dick. Seriously. It's not that difficult.
+9. Don't talk about coremodding or mixins outside the designated channel: <#733055378371117127>
   1. We reserve the right not to support your endeavours into pointless coremodding or mixins. If there's a way to do it without a coremod or mixin, we will happily tell you how.
-1. Don't talk about other modding systems here. We know about fabric, sponge and a dozen others. You don't need to tell us about them. AGAIN. This is the Forge discord. Talk about Forge.
-1. Don't ask about old versions. There are support communities for legacy versions of modded minecraft, where you'll find lots of new friends. No, we're not a directory, and we don't have invites to hand out.
-1. We will try and support your problems in <#437001959950778368>, but problems get fixed all the time. We can only reasonably support the latest recommended build and very recent beta builds. If you can't reproduce your problem, we reserve the right not to help you.
+10. Don't talk about other modding systems here. We know about fabric, sponge and a dozen others. You don't need to tell us about them. AGAIN. This is the Forge discord. Talk about Forge.
+11. Don't ask about old versions. There are support communities for legacy versions of modded minecraft, where you'll find lots of new friends. No, we're not a directory, and we don't have invites to hand out.
+12. We will try and support your problems in <#437001959950778368>, but problems get fixed all the time. We can only reasonably support the latest recommended build and very recent beta builds. If you can't reproduce your problem, we reserve the right not to help you.
 =>
 # Community Standards
-The entire community - users, visitors, contributors and maintainers - will be held to the standards of the [Code of Conduct](<https://github.com/MinecraftForge/.github/blob/master/CODE_OF_CONDUCT.md>)
+The entire community - users, visitors, contributors and maintainers - will be held to the standards of the Code of Conduct (<https://github.com/MinecraftForge/.github/blob/master/CODE_OF_CONDUCT.md>)
 ## Moderation
 We operate a 3 strikes policy. Rule violations (listed above) can trigger these actions.
 1. Strike one will result in an in channel warning stating which rule you violated
-1. Strike two will result in a ten minute timeout
-1. Strike three will result in a ban or read-only purgatory
+2. Strike two will result in a ten minute timeout
+3. Strike three will result in a ban or read-only purgatory
 
 _Note that significant enough violations will lead to one or more of these steps being skipped._
 =>
@@ -65,7 +65,7 @@ _Note that significant enough violations will lead to one or more of these steps
 - <@&437000459606032384> - Someone who has made significant contributions to Forge or one of its many supporting projects.
 - <@&922238913509224489> - Members of the MCModLauncher organization (see the <#922237746460893234> channel above)
 - <@&837066097403625543> - Members of the RetroGradle project (see the <#837066453025816586> channel above)
-- <@&451471841488404491> - Awarded automatically to anyone who donates on [Forge's patreon](<https://www.patreon.com/MinecraftForge>)
+- <@&451471841488404491> - Awarded automatically to anyone who donates on Forge's patreon (<https://www.patreon.com/MinecraftForge>)
 =>
 ### Regarding the new Chat Reporting feature in 1.19.1
 Mojang is adding a new feature in 1.19.1 that lets people report chat messages, and those reports may lead to people getting banned from Multiplayer modes of Minecraft.

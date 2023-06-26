@@ -24,6 +24,9 @@ We operate a 3 strikes policy. Rule violations (listed above) can trigger these 
 3. Strike three will result in a ban or read-only purgatory
 
 _Note that significant enough violations will lead to one or more of these steps being skipped._
+## ModMail
+The server has a ModMail bot, which can be used to submit moderation tickets without DMing a specific moderator.
+In order to use the ModMail bot, open a DM conversation with <@1122922321267675147> and explain your issue.
 =>
 # Channel Guide
 ## General

@@ -34,6 +34,7 @@ In order to use the ModMail bot, open a DM conversation with <@11229223212676751
 - <#437001959950778368> - User support and log interpretation services
 - <#915304642668290119> - MC 1.18 modding help
 - <#983834532904042537> - MC 1.19 modding help
+- <#1116211620415283201> - MC 1.20 modding help
 - <#540691915373412393> - Random off-topic discussion
 - <#679070190721433659> - Show off your Forge mods here
 - <#733055378371117127> - Discuss modding outside the normal forge APIs: coremodding, mixins, etc here, and only here.
